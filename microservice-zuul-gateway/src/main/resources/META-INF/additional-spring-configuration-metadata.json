@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "ribbon.ReadTimeoout",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.ReadTimeoout'"
+  },
+  {
+    "name": "ribbon.ReadTimeoout",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.ReadTimeoout'"
+  },
+  {
+    "name": "ribbon.ReadTimeoout",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.ReadTimeoout'"
+  },
+  {
+    "name": "ribbon.ReadTimeoout",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.ReadTimeoout'"
+  },
+  {
+    "name": "ribbon.ReadTimeoout",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.ReadTimeoout'"
+  },
+  {
+    "name": "ribbon.ConnectTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.ConnectTimeout'"
+  }
+]}
